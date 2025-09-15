@@ -1,0 +1,30 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+a.out
+
+# Libraries
+*.a
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Editor/IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled binary
+codecat
